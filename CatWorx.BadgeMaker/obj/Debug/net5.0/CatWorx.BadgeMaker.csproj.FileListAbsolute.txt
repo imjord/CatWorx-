@@ -1,0 +1,16 @@
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.exe
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.deps.json
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.dll
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.pdb
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.dll
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.pdb
+C:\Users\deanj\Desktop\cartwirz\CatWorx-\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.genruntimeconfig.cache
